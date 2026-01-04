@@ -34,7 +34,7 @@ const TVFXFullAPI = require('./apiwebchat.js');
     if (Array.isArray(chats)) {
         console.log('Available Chats:');
         chats.forEach(chat => {
-            console.log(`- ${chat.name || 'Private Chat'} (ID: ${chat.id})`);
+            console.log(`- ${chat.name || 'cactus'} (ID: ${chat.id})`);
         });
     }
 })();
