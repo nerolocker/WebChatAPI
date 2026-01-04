@@ -1,7 +1,7 @@
 # WebChatAPI
 <p align="center">
 API для webchat который был сделан студий TVFX 
-(ВНИМАНИЕ API СЫРОЙ) Сделал Ultraker
+(ВНИМАНИЕ API СЫРОЙ) Сделал nerolocker
 </p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
