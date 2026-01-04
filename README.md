@@ -19,6 +19,7 @@ searchUsers(query),Поиск пользователей по имени.(50/50)
 "createChat(userIds, name)",Создание группового или личного чата.(не работает я чот не правильно сделал)
 "monitorChat(chatId, callback)",Установка «слушателя» для получения новых сообщений в кратчайшие сроки.
 
+'''
 const TVFXFullAPI = require('./apiwebchat.js');
 
 (async () => {
@@ -44,3 +45,4 @@ const TVFXFullAPI = require('./apiwebchat.js');
         });
     }
 })();
+'''
